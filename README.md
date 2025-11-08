@@ -62,7 +62,6 @@ However, this demonstration **does NOT** include:
 ✘ Real LWD data  
 ✘ Real drilling data  
 ✘ Real field trajectories  
-✘ Reinforcement learning (PPO) components  
 ✘ Sensitive engineering parameters  
 ✘ Any proprietary algorithms or datasets
 
@@ -70,5 +69,4 @@ It is purely a **safe, simplified, reproducible example** illustrating the geome
 
 ---
 
-## ✅ Usage
 
